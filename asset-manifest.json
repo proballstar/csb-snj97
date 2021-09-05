@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://proballstar.github.io/csb-snj97/static/css/main.b9788572.chunk.css",
+    "main.js": "https://proballstar.github.io/csb-snj97/static/js/main.df07b50c.chunk.js",
+    "main.js.map": "https://proballstar.github.io/csb-snj97/static/js/main.df07b50c.chunk.js.map",
+    "runtime-main.js": "https://proballstar.github.io/csb-snj97/static/js/runtime-main.3c866fb9.js",
+    "runtime-main.js.map": "https://proballstar.github.io/csb-snj97/static/js/runtime-main.3c866fb9.js.map",
+    "static/css/2.f83b9687.chunk.css": "https://proballstar.github.io/csb-snj97/static/css/2.f83b9687.chunk.css",
+    "static/js/2.b962fa4d.chunk.js": "https://proballstar.github.io/csb-snj97/static/js/2.b962fa4d.chunk.js",
+    "static/js/2.b962fa4d.chunk.js.map": "https://proballstar.github.io/csb-snj97/static/js/2.b962fa4d.chunk.js.map",
+    "index.html": "https://proballstar.github.io/csb-snj97/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "https://proballstar.github.io/csb-snj97/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.b9788572.chunk.css.map": "https://proballstar.github.io/csb-snj97/static/css/main.b9788572.chunk.css.map",
+    "static/js/2.b962fa4d.chunk.js.LICENSE.txt": "https://proballstar.github.io/csb-snj97/static/js/2.b962fa4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c866fb9.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.b962fa4d.chunk.js",
+    "static/css/main.b9788572.chunk.css",
+    "static/js/main.df07b50c.chunk.js"
+  ]
+}
